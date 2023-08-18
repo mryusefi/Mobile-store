@@ -1,2 +1,3 @@
-# Phone-note-cpp
-a c++ university Project 
+# Phonenote-cpp
+This is a console Phonenote program with c++ 
+university project
